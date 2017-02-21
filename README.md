@@ -1,2 +1,2 @@
-# capacitacion-continous-delivery
-Proyecto de ejemplo para las capacitaciones de Continuos Delivery
+# capacitacion-continuous-delivery
+Proyecto de ejemplo para las capacitaciones de Continuous Delivery
