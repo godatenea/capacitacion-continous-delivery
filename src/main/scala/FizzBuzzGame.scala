@@ -7,7 +7,7 @@ class FizzBuzzGame {
     require(number > 0, "Number must be greater than 0")
     if (number % 5 == 0 && number % 3 == 0) "FizzBuzz"
     else if (number % 5 == 0) "Buzz"
-    else if (number % 3 == 1) "Fizz"
+    else if (number % 3 == 0) "Fizz"
     else String valueOf number
   }
 
